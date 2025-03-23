@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davibarbosadev/curso-git-gitHub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davibarbosadev/curso-git-gitHub/issues"
+  },
+  "homepage": "https://github.com/davibarbosadev/curso-git-gitHub#readme"
 }
